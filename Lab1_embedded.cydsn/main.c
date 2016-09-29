@@ -18,8 +18,10 @@ int main()
     /* CyGlobalIntEnable; */ /* Uncomment this line to enable global interrupts. */
     for(;;)
     {
-        Pin_LED_Write(~Pin_LED_Read()); //Toggles Pin State
-        CyDelay(1000); // System Delay of 1 second
+        PWM_Start();
+        //PWM_Enable();
+        //Pin_LED_Write(~Pin_LED_Read()); //Toggle Pin State To change LED's
+        //CyDelay(1000); //System Delay
         /* Place your application code here. */
     }
 }

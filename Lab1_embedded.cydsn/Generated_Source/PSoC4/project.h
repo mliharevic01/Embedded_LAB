@@ -18,8 +18,10 @@
 #include <cydevice_trm.h>
 #include <cyfitter.h>
 #include <cydisabledsheets.h>
+#include <Clock_1.h>
 #include <Pin_LED.h>
 #include <Pin_LED_aliases.h>
+#include <PWM.h>
 #include <core_cm0_psoc4.h>
 #include <core_cm0.h>
 #include <CyFlash.h>

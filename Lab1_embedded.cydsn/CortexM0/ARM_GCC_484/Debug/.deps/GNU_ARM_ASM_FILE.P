@@ -1,8 +1,8 @@
-D:/ECEG\ Labs/Lab1_embedded/Lab1_embedded.cydsn/CortexM0/ARM_GCC_484/Debug/CyBootAsmGnu.o : D:/ECEG\ Labs/Lab1_embedded/Lab1_embedded.cydsn/Generated_Source/PSoC4/cydevicegnu_trm.inc D:/ECEG\ Labs/Lab1_embedded/Lab1_embedded.cydsn/Generated_Source/PSoC4/cyfittergnu.inc D:/ECEG\ Labs/Lab1_embedded/Lab1_embedded.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s 
+C:/Users/mliha/Documents/Lab1_embedded/Lab1_embedded.cydsn/CortexM0/ARM_GCC_484/Debug/CyBootAsmGnu.o : C:/Users/mliha/Documents/Lab1_embedded/Lab1_embedded.cydsn/Generated_Source/PSoC4/cydevicegnu_trm.inc C:/Users/mliha/Documents/Lab1_embedded/Lab1_embedded.cydsn/Generated_Source/PSoC4/cyfittergnu.inc C:/Users/mliha/Documents/Lab1_embedded/Lab1_embedded.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s 
 
-D:/ECEG\ Labs/Lab1_embedded/Lab1_embedded.cydsn/Generated_Source/PSoC4/cydevicegnu_trm.inc : 
+C:/Users/mliha/Documents/Lab1_embedded/Lab1_embedded.cydsn/Generated_Source/PSoC4/cydevicegnu_trm.inc : 
 
-D:/ECEG\ Labs/Lab1_embedded/Lab1_embedded.cydsn/Generated_Source/PSoC4/cyfittergnu.inc : 
+C:/Users/mliha/Documents/Lab1_embedded/Lab1_embedded.cydsn/Generated_Source/PSoC4/cyfittergnu.inc : 
 
-D:/ECEG\ Labs/Lab1_embedded/Lab1_embedded.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s : 
+C:/Users/mliha/Documents/Lab1_embedded/Lab1_embedded.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s : 
 

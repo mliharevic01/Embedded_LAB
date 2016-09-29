@@ -2,4 +2,4 @@ D:\Program Files(x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\default
 D:\Program Files(x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|917f0f4c-a703-4886-b1ca-970a1219ac4c
 D:\Program Files(x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|ea6edd76-22a8-48af-85a2-21f65d271860
 D:\Program Files(x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|4e94f261-ccc4-4c3e-919b-dd6306af99a0
-D:\ECEG Labs\Lab1_embedded\Lab1_embedded.cydsn\Lab1_embedded.cyprj|8d332630-4d0b-4daa-8836-3a74406c035b
+C:\Users\mliha\Documents\Lab1_embedded\Lab1_embedded.cydsn\Lab1_embedded.cyprj|6eb699c3-d809-4b12-abc8-c4e51c17b39c
