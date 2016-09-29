@@ -19,7 +19,6 @@ int main()
     for(;;)
     {
         PWM_Start();
-        //PWM_Enable();
         //Pin_LED_Write(~Pin_LED_Read()); //Toggle Pin State To change LED's
         //CyDelay(1000); //System Delay
         /* Place your application code here. */
